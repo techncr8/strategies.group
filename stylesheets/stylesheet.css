@@ -46,7 +46,7 @@ table {
 
 @font-face {
     font-family: titleFont;
-    src: url('/AvenirLTStd-Light.otf');
+    src: url('stylesheets/AvenirLTStd-Light.otf');
 }
 
 #project_title{
